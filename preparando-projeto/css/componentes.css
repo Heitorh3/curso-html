@@ -10,7 +10,7 @@
   font-size: 1.4rem; /* 14px */
 }
 
-.plano--mais-popular::after {
+.plano--mais-popular:after {
   position: absolute;
   top: -10px;
   left: -10px;
@@ -73,6 +73,7 @@
 
   background-color: #bbb;
   color: #fff;
+  border: none;
 
   line-height: normal;
   font-size: 1em;
